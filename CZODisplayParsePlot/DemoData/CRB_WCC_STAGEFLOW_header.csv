@@ -1,0 +1,124 @@
+\doc
+
+TITLE. White Clay Creek Stage and Discharge 1968-2012
+
+ABSTRACT. These are White Clay Creek stage measurements as determined from continuous data loggers 
+and discharge measurements derived from the stage measurements using site specific rating curves.
+
+INVESTIGATOR. Denis Newbold, Stroud Water Research Center, 970 Spencer Road, Avondale, PA 19311. newbold@stroudcenter.org
+
+VARIABLES. Gage height, Discharge.
+
+KEYWORDS. hydrology, white clay creek, gage height, stage, discharge, stroud water research center,christina river
+
+LOCATION. White Clay Creek at Spencer Road bridge near Avondale, PA
+
+CITATION. Continuous streamflow data collected by Stroud Water Research Center
+
+PUBLICATIONS. 
+
+COMMENTS. Times have been rounded to the nearest 15 or 5 minutes depending on the measurement/interpolation time interval.
+Stage data was sourced from data loggers as follows:
+21MAY68:16:00  - 01JUN78:00:45 Unknown Chart Recorder
+01JUN78:01:00  - 29APR98:11:45 Stevens A35 14077-49 
+29APR98:12:25  - 26MAY99:15:45 Telog2108 3324 
+26MAY99:16:00  - 15JUN99:12:00 Stevens A35 14077-49 
+15JUN99:12:15  - 09DEC99:20:35 Telog2108 3324 
+09DEC99:21:15  - 26DEC99:15:30 Stevens A35 14077-49 
+26DEC99:16:05  - 17AUG01:14:05 Telog2108 3324 
+17AUG01:14:40  - 07SEP01:14:30 Manual Read   
+07SEP01:15:05  - 05OCT01:16:00 miniTROLL 1876 
+05OCT01:16:30  - 05DEC02:17:45 Telog2109 3379 
+06DEC02:11:15  - 04APR03:12:30 miniTROLL 1902 
+04APR03:13:00  - 27SEP04:12:45 Telog2109 3379 
+27SEP04:12:55  - 29OCT04:15:15 miniTROLL 1876 
+29OCT04:15:30  - 31DEC04:23:45 Telog2109 3379 
+01JAN05:00:05  - 15JUN05:08:30 miniTROLL 1876 
+15JUN05:08:35  - 15JUN05:08:35 Hobo 867579 
+15JUN05:08:45  - 15JUN05:08:45 miniTROLL 1876 
+15JUN05:08:50  - 12JUL05:16:50 Hobo 867579 
+12JUL05:17:15  - 09DEC05:23:45 miniTROLL 1876 
+10DEC05:00:00  - 11JAN06:10:45 Telog2109 3379 
+11JAN06:10:50  - 13JUN06:13:25 miniTROLL 1876 
+13JUN06:13:30  - 21JUN06:15:30 Telog2109 3379 
+21JUN06:15:40  - 06SEP06:07:20 miniTROLL 1876 
+06SEP06:07:30  - 13SEP06:15:00 Telog2109 3379 
+13SEP06:15:05  - 03JUN07:23:50 miniTROLL 1876 
+04JUN07:00:00  - 04JUN07:23:45 Telog2109 3379 
+05JUN07:00:05  - 28OCT07:20:40 miniTROLL 1876 
+28OCT07:20:45  - 31OCT07:11:30 Telog2109 3379 
+31OCT07:11:45  - 10JAN08:12:25 miniTROLL 1876 
+10JAN08:12:45  - 25JUN08:09:35 Solinst 1027936 
+25JUN08:10:15  - 07AUG08:08:45 Hobo 867579 
+07AUG08:09:50  - 22APR09:14:00 Solinst 1027936 
+22APR09:14:15  - 20MAY09:13:30 Telog2109 3379 
+20MAY09:13:45  - 26JAN10:01:40 Solinst 1027936 
+26JAN10:02:00  - 05FEB10:14:30 Telog2109 3379 
+05FEB10:14:45  - 31DEC12:23:55 Solinst 1027936 
+
+DEFAULT_PARAMETER. sitecode = WCC0
+DEFAULT_PARAMETER. TimeSupport=0
+DEFAULT_PARAMETER. NoDataValue=-9999
+DEFAULT_PARAMETER. TimeSupportUnits=hr
+DEFAULT_PARAMETER. SampleMedium= surface water
+DEFAULT_PARAMETER. SampleType=streamwater
+DEFAULT_PARAMETER. ValueType=Derived Value
+DEFAULT_PARAMETER. DataLevel=1
+DEFAULT_PARAMETER. CensorCode=nc
+DEFAULT_PARAMETER. TimeZone=EST
+DEFAULT_PARAMETER. UTCOffset=-5
+DEFAULT_PARAMETER. DataBeginsOnRow = 3
+
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1968.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1969.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1970.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1971.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1972.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1973.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1974.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1975.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1976.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1977.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1978.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1979.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1980.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1981.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1982.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1983.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1984.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1985.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1986.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1987.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1988.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1989.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1990.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1991.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1992.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1993.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1994.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1995.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1996.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1997.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1998.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_1999.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2000.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2001.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2002.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2003.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2004.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2005.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2006.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2007.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2008.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2009.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2010.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2011.csv
+DEFAULT_PARAMETER. DataFile =CRB_WCC_StageFlow_2012.csv
+
+\header
+
+COL1. label=ValueAttribute,value=DateTime,format = yyyyMMdd H:mm
+COL2. label=VariableName,value=Gage height,units=ft,method=Gage Height,DataType=Continuous 
+COL3. label=VariableName,value=Gage height,units=ft,method=Gage Height,DataType=Constant Over Interval 
+COL4. label=VariableName,value=Discharge,units=cfs,method=Discharge,DataType=Continuous 
+COL5. label=VariableName,value=Discharge,units=cfs,method=Discharge,DataType=Constant Over Interval 
