@@ -2,7 +2,7 @@
 ###################
 .ipynb_checkpoints
 .ipynb_checkpoints/
-
+/.ipynb_checkpoints/
 
 # Compiled source #
 ###################
@@ -41,4 +41,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
 CZODisplayParsePlot/.ipynb_checkpoints/CZODisplaytoDataFrame_WCC-Flow-checkpoint.ipynb
