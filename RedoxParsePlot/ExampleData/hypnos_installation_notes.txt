@@ -1,0 +1,24 @@
+West bank of Transect A:
+New Hypnos logger (#077) installed Oct 4, 2012 at 16:00 EST
+
+Channel 0: streambank (top of bank) (Red)
+Channel 1: streambank (blue)
+Channel 2: streambank (green)
+Channel 3: streambank (under water) (yellow) 
+Channel 4-12:  Well 119   
+Channel 13-21:  Well 120
+Channel 22-30:  Well 121
+Channel 31-39:  Well 122
+
+-----------------
+
+East bank of Transect A:
+New Hypnos Logger (#076) installed Oct 5, 2012 at 13:00 EST
+
+Channel 0-8:  Well 115
+Channel 9-17:  Well 003
+Channel 18-26:  Well 116
+Channel 27-35:  Well 117
+-----------------------
+
+For all 9-channel probes, the first number is at the tip (and therefore deepest in the ground), the last number is closest to the ground surface.  So for Logger #077, it's next to well 119, Channel 4 is at the tip (gravel layer), and Ch 12 is closest to the ground.  Ch 13 is the tip on the probe next to Well 120.

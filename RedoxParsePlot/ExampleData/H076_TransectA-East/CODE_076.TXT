@@ -1,0 +1,1 @@
+Xx:first digit = group numberxX:second digit = sensor numberxx:28,..,.. (over-)write a sensorxx:FF,..,.. delete a sensor00<=xx<=49!@DO NOT CHANGE THE FOLLOWING TEXT:#437A4F13006102F3End.
