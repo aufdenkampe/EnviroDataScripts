@@ -1,0 +1,119 @@
+Term, Definition
+ALKAUTO,Autotitrator at Stroud Water Research Center
+ALKMANUAL,Manual titration at Stroud Water Research Center
+AUTO_WATERLEVEL,Water level determined from continuous data logger water depth measurements and well elevation.
+CAANSP1,Unfiltered sample analyzed for calcium at Academy of Natural Sciences_ Philadelphia
+CAANSP2,Filtered sample analyzed for calcium at Academy of Natural Sciences_ Philadelphia
+CACG,Filtered sample analyzed for calcium at Cedar Grove Environmental Inc.
+CHLAFLUOR1,Total Chlorophyll a analyzed on a Turner 10-AU Fluorometer
+CHLAFLUOR2,Chlorophyll a  >=10 µm analyzed on a Turner 10-AU Fluorometer
+CHLAFLUOR3,Chlorophyll a <63 µm analyzed on a Turner 10-AU Fluorometer
+CHLASPEC,Total Chlorophyll a analyzed on a Lambda25 Spectrophotometer
+CLANSP1,Unfiltered sample analyzed for chloride at Academy of Natural Sciences_ Philadelphia
+CLANSP2,Filtered sample analyzed for chloride at Academy of Natural Sciences_ Philadelphia
+CLCG,Filtered sample analyzed for chloride at Cedar Grove Environmental Inc.
+COND350,Conductivity measured at Stroud Water Research Center using WTW Multi350I meter
+COND925,Conductivity measured at Stroud Water Research Center using Fisher Accumet Meter 925
+CONDSEVEN,Conductivity measured at Stroud Water Research Center using Mettler Toledo SevenMulti meter
+CONDSWRC,Conductivity measured at Stroud Water Research Center
+DEICP,Analyzed using ICP-OES at University of Delaware
+DEUUSFSI,Deuterium measured at University of South Florida Stable Isotope lab.
+DISCHARGE,Discharge derived from gage height using site and time specific rating curve
+DO330,Dissolved oxygen measured by a WTW OXI330 meter.
+DO350,Dissolved oxygen measured by a WTW Multi350I meter.
+DONANSP,Filtered sample analyzed for dissolved organic nitrogen at Academy of Natural Sciences_ Philadelphia
+GAGE HEIGHT,Gage Height as determined from continuous data logger
+GAGE HEIGHT - Sea Level Reference,Gage Height as determined from continuous data logger using a sea level reference
+KANSP1,Unfiltered sample analyzed for potassium at Academy of Natural Sciences_ Philadelphia
+KANSP2,Filtered sample analyzed for potassium at Academy of Natural Sciences_ Philadelphia
+KCG,Filtered sample analyzed for potassium at Cedar Grove Environmental Inc.
+MANUAL_WATERLEVEL,Water level determined from manual depth to water measurement and well elevation
+MGANSP1,Unfiltered sample analyzed for magnesium at Academy of Natural Sciences_ Philadelphia
+MGANSP2,Filtered sample analyzed for magnesium at Academy of Natural Sciences_ Philadelphia
+MGCG,Filtered sample analyzed for magnesium at Cedar Grove Environmental Inc.
+MOALK,Sample analyzed for total alkalinity using methyl orange indicator
+NAANSP1,Unfiltered sample analyzed for sodium at Academy of Natural Sciences_ Philadelphia
+NAANSP2,Filtered sample analyzed for sodium at Academy of Natural Sciences_ Philadelphia
+NACG,Filtered sample analyzed for sodium at Cedar Grove Environmental Inc.
+NH4ANSP,Filtered sample analyzed for ammonium at Academy of Natural Sciences_ Philadelphia
+NH4CG,Unfiltered sample analyzed for ammonium at Cedar Grove Environmental Inc.
+NO3ANSP,Filtered sample analyzed for nitrate at Academy of Natural Sciences_ Philadelphia
+NO3CG,Filtered sample analyzed for nitrate at Cedar Grove Environmental Inc.
+O18USFSI,O18 measured at Univeristy of South Florida Stable Isotope lab.
+PH350,pH measured at Stroud Water Research Center using WTW Multi350I meter
+PH925,pH measured at Stroud Water Research Center using Fisher Accumet Meter 925
+PHEOFLUOR1,Total Pheophytin analyzed on a Turner 10-AU Fluorometer
+PHEOFLUOR2,Pheophytin >=10 µm analyzed on a Turner 10-AU Fluorometer
+PHEOFLUOR3,Pheophytin <63 µm analyzed on a Turner 10-AU Fluorometer
+PHEOSPEC,Total Pheophytin analyzed on a Lambda25 Spectrophotometer
+PHSEVEN,pH measured at Stroud Water Research Center using Mettler Toledo SevenMulti meter
+PHSWRC,pH measured at Stroud Water Research Center
+PO4ANSP,Filtered sample analyzed for phosphate at Academy of Natural Sciences_ Philadelphia
+PO4CG,Filtered sample analyzed for phosphate at Cedar Grove Environmental Inc.
+SESTEA_07-10,Seston analyzed on Elemental Analyzer_ 0.7-10 um fraction
+SESTEA_07-20,Seston analyzed on Elemental Analyzer_ 0.7-20 um fraction
+SESTEA_07-53,Seston analyzed on Elemental Analyzer_ 0.7-53 um fraction
+SESTEA_07-63,Seston analyzed on Elemental Analyzer_ 0.7-63 um fraction
+SESTEA_10-20,Seston analyzed on Elemental Analyzer_ 10-20 um fraction
+SESTEA_20-30,Seston analyzed on Elemental Analyzer_ 20-30 um fraction
+SESTEA_20-53,Seston analyzed on Elemental Analyzer_ 20-53 um fraction
+SESTEA_30-50,Seston analyzed on Elemental Analyzer_ 30-50 um fraction
+SESTEA_50-106,Seston analyzed on Elemental Analyzer_ 50-106 um fraction
+SESTEA_53-106,Seston analyzed on Elemental Analyzer_ 53-106 um fraction
+SESTEA_GE10,Seston analyzed on Elemental Analyzer_ >=10 um fraction
+SESTEA_GE106,Seston analyzed on Elemental Analyzer_ >=106 um fraction
+SESTEA_GE20,Seston analyzed on Elemental Analyzer_ >=20 um fraction
+SESTEA_GE53,Seston analyzed on Elemental Analyzer_ >=53 um fraction
+SESTEA_GE63,Seston analyzed on Elemental Analyzer_ >=63 um fraction
+SESTEA_WHOLE07,Seston analyzed on Elemental Analyzer_ WHOLE (>0.7 um) fraction
+SESTSS_045-08,Suspended Sediments_ 0.45-0.8 um fraction
+SESTSS_045-10,Suspended Sediments_ 0.45-10 um fraction
+SESTSS_07-10,Suspended Sediments_ 0.7-10 um fraction
+SESTSS_07-20,Suspended Sediments_ 0.7-20 um fraction
+SESTSS_07-53,Suspended Sediments_ 0.7-53 um fraction
+SESTSS_07-63,Suspended Sediments_ 0.7-63 um fraction
+SESTSS_08-2,Suspended Sediments_ 0.8-2 um fraction
+SESTSS_10-20,Suspended Sediments_ 10-20 um fraction
+SESTSS_106-1000,Suspended Sediments_ 106-1000 um fraction
+SESTSS_2-5,Suspended Sediments_ 2-5 um fraction
+SESTSS_20-30,Suspended Sediments_ 20-30 um fraction
+SESTSS_20-53,Suspended Sediments_ 20-53 um fraction
+SESTSS_30-50,Suspended Sediments_ 30-50 um fraction
+SESTSS_5-10,Suspended Sediments_ 5-10 um fraction
+SESTSS_50-106,Suspended Sediments_ 50-106 um fraction
+SESTSS_53-106,Suspended Sediments_ 53-106 um fraction
+SESTSS_GE10,Suspended Sediments_ >=10 um fraction
+SESTSS_GE106,Suspended Sediments_ >=106 um fraction
+SESTSS_GE20,Suspended Sediments_ >=20 um fraction
+SESTSS_GE53,Suspended Sediments_ >=53 um fraction
+SESTSS_GE63,Suspended Sediments_ >=63 um fraction
+SESTSS_WHOLE045,Suspended Sediments_ WHOLE (>0.45 um) fraction
+SESTSS_WHOLE07,Suspended Sediments_ WHOLE (>0.7 um) fraction
+SIANSP1,Unfiltered sample analyzed for silica at Academy of Natural Sciences_ Philadelphia
+SIANSP2,Filtered sample analyzed for silica at Academy of Natural Sciences_ Philadelphia
+SICG,Filtered sample analyzed for silicon at Cedar Grove Environmental Inc.
+SM4110B,SM 4110 B as modified by AS18 product manual section 5.4
+SM4110B2,SM 4110 B as modified by AS18 product manual section 5.4_ modified for volatile fatty acids
+SM5310C,"SM 5310 C, filtered with glass fiber filter"
+SO4ANSP1,Unfiltered sample analyzed for sulfate at Academy of Natural Sciences_ Philadelphia
+SO4ANSP2,Filtered sample analyzed for sulfate at Academy of Natural Sciences_ Philadelphia
+SO4CG,Filtered sample analyzed for sulfate at Cedar Grove Environmental Inc.
+SWRCDX,Cations measured using dionex at Stroud Water Research Center.  Note sodium has not been blank-corrected.
+SWRCDX2,Sodium measured using dionex at Stroud Water Research Center.  Sodium is blank-corrected.
+TDPANSP,Filtered sample analyzed total dissolved phosphorus at Academy of Natural Sciences_ Philadelphia
+TDPCG,Filtered sample analyzed for total dissolved phosphorus at Cedar Grove Environmental Inc.
+TEMPLOGGER,Water temperature measured with temperature logger
+TEMP330,Temperature measured by a WTW OXI330 meter.
+TEMP350,Temperature measured at Stroud Water Research Center using WTW Multi350I meter
+TKNANSP,Unfiltered sample analyzed for total kjeldahl nitrogen at Academy of Natural Sciences_ Philadelphia
+TPANSP,Unfiltered sample analyzed for total phosphorus at Academy of Natural Sciences_ Philadelphia
+TPCG,Unfiltered sample analyzed for total phosphorus at Cedar Grove Environmental Inc.
+TURBIDWP88,Turbidity measured using a TPS WP-88 field turbidity meter.
+UNKNOWN,Unknown Method
+USCRN_AIRTEMPERATURE,Air temperature as measured by US Climate Reference Network instruments.  http://www.ncdc.noaa.gov/crn/elements.html#temp
+USCRN_PRECIPITATION,Precipitation as measured by US Climate Reference Network instruments.  http://www.ncdc.noaa.gov/crn/elements.html#precip
+USCRN_RELHUMIDITY,Relative humidity as measured by US Climate Reference Network instruments.
+USCRN_SOILMOISTURE,Soil moisture as measured by US Climate Reference Network instruments.
+USCRN_SOILTEMPERATURE,Soil temperature as measured by US Climate Reference Network instruments.
+USCRN_SOLARRADIATION,Solar radiation as measured by US Climate Reference Network instruments.  http://www.ncdc.noaa.gov/crn/elements.html#sr
+USCRN_SURFACETEMPERATURE,IR Ground surface temperature as measured by US Climate Reference Network instruments.  http://www.ncdc.noaa.gov/crn/elements.html#ir
